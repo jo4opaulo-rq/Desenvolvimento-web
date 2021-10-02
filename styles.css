@@ -1,0 +1,42 @@
+body{
+    background-color: #1e6b8aab;
+    font-family:monospace;
+    
+}
+.form{
+    width: 300px;
+    margin: auto;
+    position: relative;
+    background: #ffffff;
+    margin: 100px auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.24);
+}
+.form input{
+    background: #ffffff;
+    width: 300px;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-style: italic;
+}
+.form button{
+    background-color: rgba(27, 66, 173, 0.418);
+    width: 200px;
+    border-radius: 0;
+    padding: 15px;
+    color: #000;
+    font-size: 14px;
+    cursor: pointer;
+}
+.form .message{
+    margin: 15px 0 0;
+    color: rgba(57, 18, 102, 0.534);
+    font-size: 12px;
+}
+.form .message a{
+    color: cadetblue;
+}
